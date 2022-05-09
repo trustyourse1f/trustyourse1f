@@ -1,8 +1,8 @@
-**Learn from yesterday,**  
-**Live for today,**  
-**Hope for tomorrow**  
-
-
+# **Learn from yesterday,**  
+# **Live for today,**  
+# **Hope for tomorrow**  
+  
+  
 name : Seunghun Jeon  
 gender : male🧑🏻  
 date of birth : 1998.11.18🐱  
