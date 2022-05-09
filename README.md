@@ -1,16 +1,17 @@
-### Hi there 👋
+**Learn from yesterday,**  
+**Live for today,**  
+**Hope for tomorrow**  
 
-<!--
-**trustyourse1f/trustyourse1f** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+name : Seunghun Jeon  
+gender : male🧑🏻  
+date of birth : 1998.11.18🐱  
+zodiac sign : Scorpius🦂  
+blood type : RH+O 🅾  
+post address : Busan, South Korea  
+birth place : Changwon-si  
+education : An-dong High school  
+            Pukyong Nat'l Univ. Bachelor of electronic engineering📱  
+occupation : student📚  
+favorite food : beer🍺  
+hobby : hiking🚶🏻‍♂️
