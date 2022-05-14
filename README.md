@@ -18,6 +18,6 @@ Hi~ visitors!
 - education : An-dong High school  
               Pukyong Nat'l Univ. Bachelor of electronic engineering 📱  
 - occupation : student 📚  
-- favorite food : beer 🍺  
-- hobby : hiking 🚶🏻‍♂️  
+- favorite food : beer 🍺 & beef 🥩  
+- hobby : hiking 🚶🏻‍♂️ & study with youtube 💻
 - covid-19 : No ❌
