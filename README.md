@@ -18,7 +18,6 @@ Hi~ visitors!
 - education : An-dong High school  
               Pukyong Nat'l Univ. Bachelor of electronic engineering 📱  
 - occupation : student 📚  
-- military : Capital Mechanized Infantry Division (Tiger Div) 🐱  
+- military : Army, Capital Mechanized Infantry Division (Tiger Div) 🐱  
 - favorite food : beer 🍺 & beef 🥩  
 - hobby : hiking 🚶🏻‍♂️ & study with youtube 💻
-- covid-19 : No ❌
