@@ -21,6 +21,3 @@ Hi~ visitors!
 - military : Army, Capital Mechanized Infantry Division (Tiger Div) 🐱  
 - favorite food : beer 🍺 & beef 🥩  
 - hobby : hiking 🚶🏻‍♂️ & study with youtube 💻
-  
- 
- ![lifetime](https://user-images.githubusercontent.com/102509786/226153978-39255d22-23af-47e0-af77-c7db3a44c033.png)
